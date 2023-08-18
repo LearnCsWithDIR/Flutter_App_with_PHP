@@ -1,6 +1,6 @@
 class API {
   // ipconfig
-  static const host = "http://10.22.161.38/travelApp";
+  static const host = "http://ADD IPV4 Address/travelApp";
   static const user = "$host/users";
 
   // sign up user access
